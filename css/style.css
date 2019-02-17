@@ -1,0 +1,18 @@
+.menu{  
+	background: #4d92f4;
+	color: #fff
+	float: right;
+	height: 157px;
+	width: 100%;}
+	.menu ul{padding: 0px;}
+	.menu ul li{  
+		list-style-type: none;
+		display: inline-block;
+		float: left;
+		padding: 10px;
+		font-size: 16px;
+		text-transform: uppercase;
+		background: #000
+		color: #fff;}
+		.menu ul li a{font-size: 18px; color: #000; text-decoration: none;}
+		.menu ul li a:hover{ background: #3861f3; color: #fff }
